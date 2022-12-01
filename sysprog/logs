@@ -1,0 +1,34 @@
+The process 7187 was very suspicious and was killed by detector
+Process info:
+	Executable file: 		/home/salim/solution/task1/encoder
+	Working directory: 		/home/salim/solution/encoder_dir/
+	Changed files num: 		10
+Changed files:
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/.gitignore
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/.gitignore
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/proguard-rules.pro
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/src/androidTest/java/ua/cn/stu/junit/ExampleInstrumentedTest.kt
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/src/main/AndroidManifest.xml
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/src/test/java/ua/cn/stu/junit/ExampleUnitTest.kt
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/gradle.properties
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/gradlew
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/settings.gradle
+	/home/salim/solution/encoder_dir/sherlock.txt
+
+The process 7231 was very suspicious and was killed by detector
+Process info:
+	Executable file: 		/home/salim/solution/task1/encoder
+	Working directory: 		/home/salim/solution/encoder_dir/
+	Changed files num: 		10
+Changed files:
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/.gitignore
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/.gitignore
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/proguard-rules.pro
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/src/androidTest/java/ua/cn/stu/junit/ExampleInstrumentedTest.kt
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/src/main/AndroidManifest.xml
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/app/src/test/java/ua/cn/stu/junit/ExampleUnitTest.kt
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/gradle.properties
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/gradlew
+	/home/salim/solution/encoder_dir/android-tutorials/tests-intro-task/settings.gradle
+	/home/salim/solution/encoder_dir/sherlock.txt
+

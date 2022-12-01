@@ -1,0 +1,3 @@
+/home/salim/acronis/filesystems/btree/build/CMakeFiles/main.dir
+/home/salim/acronis/filesystems/btree/build/CMakeFiles/edit_cache.dir
+/home/salim/acronis/filesystems/btree/build/CMakeFiles/rebuild_cache.dir

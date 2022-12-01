@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/salim/acronis/filesystems/btree/build",
+  "command": "/usr/bin/clang++ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON  -g -fsanitize=address,undefined -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/main.dir/main.cpp.o -c /home/salim/acronis/filesystems/btree/main.cpp",
+  "file": "/home/salim/acronis/filesystems/btree/main.cpp"
+}
+]
